@@ -48,8 +48,8 @@ zh_cn:
   getCode: 源代码下载：
   share: 分享此页
   selectTheme: "选择主题："
-  lightTheme: 轻
-  darkTheme: 黑暗的
+  lightTheme: 亮色背景
+  darkTheme: 暗色背景
   suggestions: "有建议？或者发现什么错误？在Github上<a href=\"%s\">开一个issue</a>，或者你自己也可以写一个<a href=\"%s\">pull request</a>！"
   contributor: "原著%s，并由<a href=\"%s\">%d个好心人</a>修改。"
 
